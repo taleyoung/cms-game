@@ -1,0 +1,34 @@
+.card-title {
+  /* margin-left: 800px; */
+  margin-top: 40px;
+  width: 500px;
+  height: 500px;
+}
+.card-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ececec;
+}
+.login-form-button {
+  width: 200px;
+}
+.button-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.pie-wrap {
+  display: flex;
+  justify-content: space-around;
+}
+
+.meta {
+  margin: 0 auto;
+}
+
+.date-wrap {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
